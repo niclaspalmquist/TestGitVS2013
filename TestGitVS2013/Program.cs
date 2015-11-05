@@ -12,6 +12,8 @@ namespace TestGitVS2013
         {
 
             //Change
+            
+            /Remote change
 
         }
     }
