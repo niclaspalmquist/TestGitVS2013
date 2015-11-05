@@ -15,6 +15,8 @@ namespace TestGitVS2013
             
             //Remote change
 
+            //stash
+
         }
     }
 }
